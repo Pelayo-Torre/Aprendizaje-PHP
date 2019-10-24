@@ -1,0 +1,20 @@
+
+#depurador{
+    background-color: #F87F65;
+}
+
+h1, form, h2, .depurador {
+    margin-left: 1%;
+}
+
+ul{
+    margin-bottom: 0.5%;
+}
+
+.error{
+    color: red;
+}
+
+#validador{
+    background-color: #F5FC5F;
+}

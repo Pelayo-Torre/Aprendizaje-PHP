@@ -1,0 +1,30 @@
+
+
+#form1{
+    background-color: #F87F65;
+}
+
+h1, form, h2, #historial {
+    margin-left: 1%;
+}
+
+#bt1, #bt2{
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+#historial{
+    margin-bottom: 0.5%;
+}
+
+#dinamicoInput{
+    width: 95%;;
+}
+
+#form2{
+    background-color: #77CA5C;
+}
+
+#form3{
+    background-color: #59DDDF;
+}
