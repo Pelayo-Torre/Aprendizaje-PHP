@@ -8,4 +8,5 @@ Aplicación:
 2. Validación de los datos introducidos por el usuario.
 3. Historial de datos especificados por el usuario.
 4. Generación de código PHP de forma dinámica.
-5. Muestra de los datos del usuario en una gráfica de Google Docs, programado en TypeScript
+5. Muestra de los datos del usuario en una gráfica de Google Docs, programado en TypeScript.
+6. Pruebas unitarias del código realizado.
